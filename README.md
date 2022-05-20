@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HelenDi
+- 👋 Hi, I’m @diosama99
 - 👀 I’m interested in becoming frontend developer
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on not sure yet
